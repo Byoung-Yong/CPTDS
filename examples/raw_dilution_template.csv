@@ -1,0 +1,9 @@
+sample_id,coffee,method,tds,conductivity
+sample_A,Example coffee A,Method 1,0.25,0.58
+sample_A,Example coffee A,Method 1,0.50,1.08
+sample_A,Example coffee A,Method 1,0.75,1.52
+sample_A,Example coffee A,Method 1,1.00,1.92
+sample_B,Example coffee B,Method 2,0.25,0.61
+sample_B,Example coffee B,Method 2,0.50,1.12
+sample_B,Example coffee B,Method 2,0.75,1.57
+sample_B,Example coffee B,Method 2,1.00,1.95
