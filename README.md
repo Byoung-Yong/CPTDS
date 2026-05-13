@@ -89,7 +89,7 @@ python fit_user_coefficients.py \
 
 The `--quick` flag uses a small grid for a fast smoke test. It is useful for checking installation only.
 
-## Workflow C: Browser-Only Use
+## Workflow C: Browser-Only Use ( Under Development)
 
 Readers who do not want to run Python can open:
 
