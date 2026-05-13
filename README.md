@@ -13,13 +13,6 @@ It does not contain the manuscript coffee datasets, manuscript output tables, or
 - Optional idealized 1:1 electrolyte benchmark code.
 - Input templates for user data.
 
-## What Is Not Included
-
-- Manuscript coffee dilution data.
-- Manuscript application datasets.
-- Manuscript output tables.
-- Manuscript figure scripts.
-- Cached manuscript simulation results.
 
 ## Installation
 
