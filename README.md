@@ -172,17 +172,4 @@ python run_universal_electrolyte_benchmark.py
 
 runs the idealized 1:1 electrolyte benchmark machinery. It is slower than the user-coefficient workflow and is not required for fitting user data.
 
-## Notes For Reuse
 
-Use the same TDS and conductivity units consistently within one dataset. The CPTDS slope and intercept depend on the units of the concentration axis, so different unit conventions should not be mixed in one fit. TDS should be measured independently of conductivity, such as by a coffee refractometer or gravimetric solids measurement, rather than imported from an EC/TDS meter conversion.
-
-For publication or comparison across labs, report:
-
-- dilution protocol,
-- TDS unit,
-- conductivity unit,
-- fitted slope/intercept convention,
-- Index definition,
-- Monte Carlo grid settings,
-- number of grid and final replicates,
-- effective box length used for SI-like reporting.
